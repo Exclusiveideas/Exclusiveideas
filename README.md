@@ -1,5 +1,6 @@
 ### Hi there 👋
-![github-readme](https://user-images.githubusercontent.com/76836006/165233887-033f636d-d453-42f8-ac67-cbd6dd456263.JPG)
+![github-readme](https://user-images.githubusercontent.com/76836006/165299636-69e96032-9564-45b2-88e0-a0e12cfa14c0.JPG)
+
 
 ### 💼 I'm currently looking for a part-time position as a full-stack web or mobile application developer. 💼
 #### Portfolio website : https://exclusiveideas-c9470.web.app
