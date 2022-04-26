@@ -2,7 +2,7 @@
 ![github-readme](https://user-images.githubusercontent.com/76836006/165299636-69e96032-9564-45b2-88e0-a0e12cfa14c0.JPG)
 
 
-### 💼 I'm currently looking for a part-time position as a full-stack web or mobile application developer. 💼
+### 💼 I'm currently looking for a part-time or contract position as a full-stack web or mobile application developer. 💼
 #### Portfolio website : https://exclusiveideas-c9470.web.app
 #### My Resume : [Resume.pdf](https://github.com/Exclusiveideas/Exclusiveideas/files/8560477/Resume.pdf)
 #### Phone : (+234) 08103266219
