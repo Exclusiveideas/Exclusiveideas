@@ -1,5 +1,5 @@
 ### Hi there 👋
-![github-readme](https://user-images.githubusercontent.com/76836006/165299636-69e96032-9564-45b2-88e0-a0e12cfa14c0.JPG)
+![github-readme](https://user-images.githubusercontent.com/76836006/165882031-eb17a1b2-6169-4e0a-b301-c3fb742251f1.JPG)
 
 
 ### 💼 I'm currently looking for a part-time or contract position as a full-stack web or mobile application developer. 💼
