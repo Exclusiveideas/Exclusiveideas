@@ -3,7 +3,7 @@
 
 
 ### 💼 I'm currently looking for a part-time or contract position as a full-stack web or mobile application developer. 💼
-#### Portfolio website : https://exclusiveideas-c9470.web.app
+#### Portfolio website : https://exclusiveideas.vercel.app
 #### My Resume : [Resume.pdf](https://github.com/Exclusiveideas/Exclusiveideas/files/8560477/Resume.pdf)
 #### Phone : (+234) 08026629162
 #### Mail : muftau201@gmail.com
