@@ -1,15 +1,24 @@
 ## Hi there 👋
 I'm a full-stack web application developer based in Nigeria who enjoys creating things that live on the internet. I look for creative ways to push the boundaries of a website's front-end and back-end code without compromising on the browser's ***support, security and performance,*** and I focus on building **accessible**, **inclusive products** and **digital experience** for a variety of clients. 
 
-![portfolio_picture](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FScreenshot%20from%202022-09-08%2003-45-42.png?alt=media&token=838d3786-aa36-43cc-a4cf-9594cf89ec17)
+<!-- ![portfolio_picture](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FScreenshot%20from%202022-09-08%2003-45-42.png?alt=media&token=838d3786-aa36-43cc-a4cf-9594cf89ec17)
+-->
 
 
-
-### 💼 I'm currently looking for a part-time or contract position as a full-stack web or mobile application developer. 💼
-#### Portfolio website : https://exclusiveideas.vercel.app
-#### My Resume : [Resume.pdf](https://github.com/Exclusiveideas/Exclusiveideas/files/8560477/Resume.pdf)
+#### [Portfolio website](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FFullstack_resume.pdf?alt=media&token=d8c28e44-1398-49c7-9456-b0dc9d2bfaea)
+#### [My Resume](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FFullstack_resume.pdf?alt=media&token=d8c28e44-1398-49c7-9456-b0dc9d2bfaea)
 #### Phone : (+234) 08026629162
 #### Mail : muftau201@gmail.com
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exclusiveideas&hide=contribs,prs&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exclusiveideas&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muftau&theme=tokyonight&layout=compact" />
+</a>
 
 
 <!--
