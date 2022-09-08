@@ -1,5 +1,8 @@
-### Hi there 👋
-![github-readme](https://user-images.githubusercontent.com/76836006/165882031-eb17a1b2-6169-4e0a-b301-c3fb742251f1.JPG)
+## Hi there 👋
+I'm a full-stack web application developer based in Nigeria who enjoys creating things that live on the internet. I look for creative ways to push the boundaries of a website's front-end and back-end code without compromising on the browser's ***support, security and performance,*** and I focus on building **accessible**, **inclusive products** and **digital experience** for a variety of clients. 
+
+![portfolio_picture](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FScreenshot%20from%202022-09-08%2003-45-42.png?alt=media&token=838d3786-aa36-43cc-a4cf-9594cf89ec17)
+
 
 
 ### 💼 I'm currently looking for a part-time or contract position as a full-stack web or mobile application developer. 💼
@@ -10,9 +13,6 @@
 
 
 <!--
-**Exclusiveideas/Exclusiveideas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
