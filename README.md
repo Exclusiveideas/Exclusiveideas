@@ -20,6 +20,7 @@ I'm a full-stack web application developer based in Nigeria who enjoys creating 
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muftau&theme=tokyonight&layout=compact" />
 </a>
 
+<!--START_SECTION:activity-->
 
 <!--
 
