@@ -115,8 +115,6 @@
 </a>
 </details>
 
-<!--START_SECTION:activity-->
-
 <!--
 
 - 👯 I’m looking to collaborate on ...
