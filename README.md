@@ -1,5 +1,5 @@
-# Hi there! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40" height="40" />
-I'm Muftaudeen Jimoh, full-stack web application developer who enjoys creating things that live on the internet. I look for creative ways to push the boundaries of a website's front-end and back-end code without compromising on the browser's ***support, security and performance,*** and I focus on building **accessible**, **inclusive products** and **digital experience** for a variety of clients. 
+# Hi there! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40" height="40" /> I'm Muftaudeen Jimoh
+ A full-stack web application developer who enjoys creating things that live on the internet. I look for creative ways to push the boundaries of a website's front-end and back-end code without compromising on the browser's ***support, security and performance,*** and I focus on building **accessible**, **inclusive products** and **digital experience** for a variety of clients. 
 
 
 
@@ -7,9 +7,13 @@ I'm Muftaudeen Jimoh, full-stack web application developer who enjoys creating t
 - 🌱 I’m currently learning **Python & Django**
 - 😄 Pronouns: **he/him/his**
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/muftaujimoh01?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/@muftaujimoh01)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muftau)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://exclusiveideas.vercel.app)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/muftaujimoh01?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/@muftaujimoh01) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muftau) 
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=WebMoney&logoColor=white)](https://exclusiveideas.vercel.app) 
+[![Resume](https://camo.githubusercontent.com/1703529ec72a87cde0bb2cd12c4c6ecf9d939483be1faba6a31629e1e4d6e51b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d726561642d7468652d646f6373266c6f676f436f6c6f723d7768697465)](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FFullstack_resume.pdf?alt=media&token=d8c28e44-1398-49c7-9456-b0dc9d2bfaea)
+
+[![Medium Blog](https://camo.githubusercontent.com/5ab079525f2d99ccfe61b1489995944ff0c064119c14ebbf2887a15ca296a569/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465)](https://medium.com/@muftaudeenjimoh)
+[![Mail](https://camo.githubusercontent.com/556d31e33284493410899e0647e373a99399d4a8468e6a6b7d883a43f1bc992e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465)](mailto:muftau201@gmail.com)
 
 ## 🛠️ Skills
 
@@ -51,19 +55,29 @@ I'm Muftaudeen Jimoh, full-stack web application developer who enjoys creating t
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)]()
 
+### Cloud
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)]()
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 
+<!-- 
 ### Education
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)]()
 [![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)]()
-[![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)]()
+[![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)]() -->
 
-
+### 💻 Workspace Setup
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 
-#### [Portfolio website](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FFullstack_resume.pdf?alt=media&token=d8c28e44-1398-49c7-9456-b0dc9d2bfaea)
-#### [My Resume](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FFullstack_resume.pdf?alt=media&token=d8c28e44-1398-49c7-9456-b0dc9d2bfaea)
-#### Phone : (+234) 08026629162
-#### Mail : muftau201@gmail.com
+
+<details>
+  <summary><b>🚀 Github Summary</b></summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Exclusiveideas&theme=tokyonight" />
+</a>
+</details>
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
@@ -80,6 +94,19 @@ I'm Muftaudeen Jimoh, full-stack web application developer who enjoys creating t
 </a>  
 </details>
 
+<!-- <details>
+  <summary><b>📈 Trophy Stats</b></summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Exclusiveideas" />
+</a>
+</details> -->
+<!-- 
+<details>
+  <summary><b>📈 Streak Stats</b></summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Exclusiveideas" />
+</a>
+</details> -->
 
 <details>
   <summary><b>📈 Wakatime Report</b></summary>
@@ -87,7 +114,6 @@ I'm Muftaudeen Jimoh, full-stack web application developer who enjoys creating t
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muftau&theme=tokyonight&layout=compact" />
 </a>
 </details>
-
 
 <!--START_SECTION:activity-->
 
