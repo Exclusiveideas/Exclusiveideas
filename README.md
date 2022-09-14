@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **[A Social Media application](https://github.com/Exclusiveideas/Dee-M)**
+- 🔭 I’m currently working on **[Dee-M](https://github.com/Exclusiveideas/Dee-M)**
 - 🌱 I’m currently learning **Python & Django**
 - 😄 Pronouns: **he/him/his**
 
