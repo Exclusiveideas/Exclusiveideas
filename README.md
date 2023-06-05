@@ -4,8 +4,8 @@
 
 
 <!-- - 🔭 I’m currently working on **[Dee-M](https://github.com/Exclusiveideas/Dee-M)** -->
-- 🌱 I’m currently learning **Python & Django**
-- 😄 Pronouns: **he/him/his**
+- 🌱 I’m currently working on **[VectoFlex](https://github.com/Exclusiveideas/vectoflex)**
+<br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/muftaujimoh01?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/@muftaujimoh01) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muftau) 
