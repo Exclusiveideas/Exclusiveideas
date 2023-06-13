@@ -108,12 +108,12 @@
 </a>
 </details> -->
 
-<details>
+<!-- <details>
   <summary><b>📈 Wakatime Report</b></summary>
 <a href="https://github.com/Exclusiveideas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muftau&theme=tokyonight&layout=compact" />
 </a>
-</details>
+</details> -->
 
 <!--
 
