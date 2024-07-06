@@ -1,10 +1,10 @@
 # Hi there! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" height="40" /> I'm Muftaudeen Jimoh
- A full-stack javaScript web application developer who enjoys creating things that live on the internet. I look for creative ways to push the boundaries of a website's front-end and back-end code without compromising on the browser's ***support, and the security and performance,*** of the application and I focus on building **accessible**, **inclusive applications** and **digital experience** for a variety of clients. 
+ A full-stack Programmer who enjoys creating things that live on the internet. I look for creative ways to push the boundaries of a website's front-end and back-end code without compromising on the browser's ***support, and the security and performance,*** of the application and I focus on building **accessible**, **inclusive applications** and **digital experience** for a variety of clients. 
 
 
 
 <!-- - 🔭 I’m currently working on **[Dee-M](https://github.com/Exclusiveideas/Dee-M)** -->
-- 🌱 I’m currently working on **[VectoFlex](https://github.com/Exclusiveideas/vectoflex)**
+- 🌱 I’m currently working on **[DevBox](https://github.com/Exclusiveideas/DevBox)**
 <br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/muftaujimoh01?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/@muftaujimoh01) 
@@ -12,8 +12,8 @@
 <!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=WebMoney&logoColor=white)](https://exclusiveideas.vercel.app) 
 [![Resume](https://camo.githubusercontent.com/1703529ec72a87cde0bb2cd12c4c6ecf9d939483be1faba6a31629e1e4d6e51b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d726561642d7468652d646f6373266c6f676f436f6c6f723d7768697465)](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FFullstack_resume.pdf?alt=media&token=d8c28e44-1398-49c7-9456-b0dc9d2bfaea) -->
 
-[![Medium Blog](https://camo.githubusercontent.com/5ab079525f2d99ccfe61b1489995944ff0c064119c14ebbf2887a15ca296a569/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465)](https://medium.com/@muftaudeenjimoh)
-[![Mail](https://camo.githubusercontent.com/556d31e33284493410899e0647e373a99399d4a8468e6a6b7d883a43f1bc992e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465)](mailto:muftau201@gmail.com)
+[![Medium Blog](https://cdn.iconscout.com/icon/free/png-512/free-medium-10506615-8461542.png?f=webp&w=256)](https://medium.com/@muftaudeenjimoh)
+[![Mail](https://cdn.iconscout.com/icon/free/png-512/free-gmail-2923657-2416660.png?f=webp&w=256)](mailto:muftau201@gmail.com)
 
 ## 🛠️ Skills
 
@@ -32,8 +32,8 @@
 [![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Exclusiveideas)
 [![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/Exclusiveideas)
 <!-- [![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://github.com/Exclusiveideas) -->
-[![Ant-Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)](https://github.com/Exclusiveideas)
-[![Font-Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](https://github.com/Exclusiveideas)
+<!-- [![Ant-Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)](https://github.com/Exclusiveideas) -->
+<!--[![Font-Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](https://github.com/Exclusiveideas) -->
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/Exclusiveideas)
 
 
@@ -108,12 +108,13 @@
 </a>
 </details> -->
 
-<!-- <details>
+ 
+<details>
   <summary><b>📈 Wakatime Report</b></summary>
 <a href="https://github.com/Exclusiveideas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muftau&theme=tokyonight&layout=compact" />
 </a>
-</details> -->
+</details>
 
 <!--
 
