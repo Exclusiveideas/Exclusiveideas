@@ -4,7 +4,7 @@
 
 
 <!-- - 🔭 I’m currently working on **[Dee-M](https://github.com/Exclusiveideas/Dee-M)** -->
-- 🌱 I’m currently working on FrameFlow- The Video Editing Co-Pilot [software](https://github.com/Exclusiveideas/frameflow-api)
+- 🌱 I’m currently working on [StoryCraft](https://github.com/Exclusiveideas/StoryCraft) - A script writing assistant for creators online
 <br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/muftaujimoh01?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/@muftaujimoh01) 
